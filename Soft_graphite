@@ -1,0 +1,43 @@
+# Base
+background = #151719
+foreground = #C5C9C7
+
+# Cursor
+cursor-color = #D4D8D6
+cursor-text = #151719
+
+# Selection
+selection-background = #34393C
+selection-foreground = #E2E5E3
+
+# ANSI black
+palette = 0=#202326
+palette = 8=#62686A
+
+# Red
+palette = 1=#C97A7A
+palette = 9=#D98B8B
+
+# Green
+palette = 2=#88B58B
+palette = 10=#9BC49D
+
+# Yellow
+palette = 3=#C5AB72
+palette = 11=#D2BA82
+
+# Blue
+palette = 4=#7E9FC4
+palette = 12=#91AED0
+
+# Magenta
+palette = 5=#A98CB8
+palette = 13=#BA9CC7
+
+# Cyan
+palette = 6=#78AAA8
+palette = 14=#8ABBB8
+
+# White
+palette = 7=#B8BCBA
+palette = 15=#D8DCDA
